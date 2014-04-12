@@ -4,5 +4,5 @@ To test the service, generate artifacts with wsimport tool that comes with the j
     
     wsimport http://localhost:8080/JAXWS-Example/Calculator?wsdl -d bin -s src -keep -p br.com.fluentcode.jaxws.client.artifact
 
-Or if you prefer to use the JAXWS-Example-StandaloneClient project.
+Or if you prefer to use the [JAXWS-Example-StandaloneClient](https://github.com/elton-oliveira/JAXWS-Example-StandaloneClient "JAXWS-Example-StandaloneClient") project.
 
